@@ -3,7 +3,7 @@ const images = [
     "./Images/beautiful-flowers-images.jpg",
     "./Images/cherry-blossom-delight.jpg",
     "./Images/easter-white-easter.jpg",
-    "/Images/images-for-easter-white-easter.jpeg"
+    "./Images/images-for-easter-white-easter.jpeg"
 ];
 
 function openImage(index) {
