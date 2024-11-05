@@ -10,12 +10,18 @@ body {
     justify-content: center;
     align-items: center;
     height: 100vh;
-    background-color: #05cef1;
+    background-color: #ffffff;
 }
 
 .gallery-container {
     max-width: 800px;
     margin: auto;
+}
+
+h1 {
+    color: #333;
+    margin-bottom: 20px;
+    font-size: 2em;
 }
 
 .gallery {
