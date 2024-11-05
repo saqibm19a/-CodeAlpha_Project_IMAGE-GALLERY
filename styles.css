@@ -67,8 +67,12 @@ h1 {
     top: 20px;
     right: 20px;
     font-size: 30px;
-    color: rgb(255, 0, 0);
+    color: rgb(172, 25, 25);
     cursor: pointer;
+}
+
+.close:hover {
+    color: red;
 }
 
 .prev, .next {
@@ -88,4 +92,8 @@ h1 {
 
 .next {
     right: 20px;
+}
+
+.prev:hover, .next:hover {
+    color: #484863;
 }
